@@ -1,10 +1,10 @@
 .container {
-    width: 365px;
-    height: 545px;
-    margin-left: 450px;
-    margin-top: 30px;
+    width: 375px;
+    height: 525px;
+    margin-left: 350px;
+    margin-top: 45px;
     background-color: lightgreen;
-    padding-left: 50px;
+    padding-left: 30px;
 }
 #height, #weight {
     width: 200px;
